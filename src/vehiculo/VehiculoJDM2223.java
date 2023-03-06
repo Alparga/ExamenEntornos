@@ -29,7 +29,7 @@ public class VehiculoJDM2223 {
     }
 
     /**
-     * @param precio set precio
+     * @param precio set precio   
      */
     public void setPrecio(double precio) {
         this.precio = precio;
