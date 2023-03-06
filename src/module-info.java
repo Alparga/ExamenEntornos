@@ -4,4 +4,5 @@
  */
 
 module Vehiculo {
+    exports vehiculo;
 }
